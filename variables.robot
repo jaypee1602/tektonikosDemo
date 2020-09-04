@@ -1,0 +1,32 @@
+*** Variables ***
+${tektonikosUrl}    https://www.tektonikos.eu/
+${logo}             //*[@class="logo__2UXcj"]
+${content}          //*[@class="content__3vWz9"]
+${oplossingen}      //*[@href="/nl/intelligente-oplossingen"]
+${foto}             //*[@src="https://static.tektonikos.eu/media_cropped/je-bent-online-w600.jpg"]
+${cervinoReview}    //*[@src="https://static.tektonikos.eu/media/Cervinomarketing_logo01.png"]
+${babyBalance}      //*[@src="https://static.tektonikos.eu/media/logo.jpg"]
+${appIntergratie}   //*[@href="/nl/intelligente-oplossingen/applicatie-integratie"]
+${mediaOpslag}      //*[@href="/nl/intelligente-oplossingen/applicatie-integratie/media-opslag"]
+${mediaOpslagTxt}   Goede cloud software (web)applicaties scheiden opslag van de kern van de software
+${maatwerk}         //*[@href="/nl/intelligente-oplossingen/webdevelopment"]
+${telInput}         //input[@type="tel"]
+${telContainer}     //div[@class="FormContainer__3nhrr"]
+${footer}           //div[@class="footer__3wQc8"]
+${topMenu}          //div[@class="topMenu__LNQXm"]
+${oplossing}        //*[@class="menuItem-2 toggleSubMenu__1V8PE"]
+${voorwaarden}      //*[@href="/nl/algemene-voorwaarden"]
+${privacy}          //*[@href="/nl/privacybeleid"]
+${maatwerk}         //*[@href="/nl/intelligente-oplossingen/webdevelopment"]
+${maatwerkTxt}      Nieuwe projecten hebben een goed fundament nodig
+${artikelen}        //*[@href="/nl/artikelen"]
+${verhuisd}         //*[@href="/artikelen/we-zijn-verhuisd!"]
+${gebouw}           //*[@src="https://static.tektonikos.eu/media/Schipholpoort100.jpg"]
+${overOns}          //*[@href="/nl/over-ons"]
+${waarom}           //*[@href="/nl/over-ons/waarom-tektonikos"]
+${pagina}           //*[@href="/nl/artikelen/page/3"]
+${video}            //*[@src="https://www.youtube.com/embed/COLMODzYX7U"]
+${django}           //*[@href="/artikelen/website-django"]
+${contact}          //*[@href="/nl/contact"]
+${onderkant}        //*[@class="footerWrapper__r06gw"]
+
